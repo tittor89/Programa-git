@@ -1,2 +1,3 @@
 User.name Programa-git
 user.email tittor21@gmail.com
+añaditos de usuario y email
